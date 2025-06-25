@@ -14,3 +14,7 @@
 - [Felipe Canales](#)
 
 ---
+## Patrón implementado
+
+- **Productor–Consumidor**: `scraper/producer.py`
+- **Circuit Breaker + Retry**: `scraper/utils/resilience.py`

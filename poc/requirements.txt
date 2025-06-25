@@ -1,0 +1,6 @@
+aiohttp
+pybreaker
+tenacity
+aio-pika
+pytest
+pytest-asyncio
