@@ -5,6 +5,11 @@
 
 ## 📄 Entrega 2: Propuesta de Arquitectura Futura
 🔗 [Ver documento de Entrega 2](https://docs.google.com/document/d/1AI52ZwkJs-50PPP48fRUs-FR-RUlVbh6yLAnYTbk53Q/edit?pli=1&tab=t.0#heading=h.ncyatgbqkytk)
+---
+## Patrón implementado
+
+- **Productor–Consumidor**: `scraper/producer.py`
+- **Circuit Breaker + Retry**: `scraper/utils/resilience.py`
 
 ## 👥 Grupo 3
 - [Nicolás Goldsteim](#)
@@ -13,8 +18,3 @@
 - [Tomás Hernández](#)
 - [Felipe Canales](#)
 
----
-## Patrón implementado
-
-- **Productor–Consumidor**: `scraper/producer.py`
-- **Circuit Breaker + Retry**: `scraper/utils/resilience.py`
